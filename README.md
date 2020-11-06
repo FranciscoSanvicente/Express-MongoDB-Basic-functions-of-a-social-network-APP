@@ -16,8 +16,6 @@ Application I made | to the basic operations of a social network
 
 # Installation
 ```
-git clone https://github.com/FaztTech/nodejs-imgshare
-cd nodejs-imagshare
 npm install 
 npm start
 ```
